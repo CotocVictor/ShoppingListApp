@@ -9,7 +9,7 @@ namespace TestListaCumparaturi
     /// <summary>
     /// This is development status
     /// nothing completed so fars
-    /// corretion
+    /// ! using Xamarin !
     /// </summary>
     static class Program
     {
