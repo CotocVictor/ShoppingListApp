@@ -9,6 +9,7 @@ namespace TestListaCumparaturi
     /// <summary>
     /// This is development status
     /// nothing completed so fars
+    /// corretion
     /// </summary>
     static class Program
     {
