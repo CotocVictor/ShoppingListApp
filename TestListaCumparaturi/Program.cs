@@ -6,6 +6,10 @@ using System.Windows.Forms;
 
 namespace TestListaCumparaturi
 {
+    /// <summary>
+    /// This is development status
+    /// nothing completed so fars
+    /// </summary>
     static class Program
     {
         /// <summary>
